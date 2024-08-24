@@ -1,0 +1,4 @@
+interfacialinheritance.InterfacialInheritance
+interfacialinheritance.iShowable
+interfacialinheritance.iPrintable
+interfacialinheritance.greetings

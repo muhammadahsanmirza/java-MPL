@@ -1,0 +1,3 @@
+privateinnerclass.outer$inner
+privateinnerclass.PrivateInnerClass
+privateinnerclass.outer

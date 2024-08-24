@@ -1,0 +1,3 @@
+generalinheritance.GeneralInheritance
+generalinheritance.employee
+generalinheritance.programmer

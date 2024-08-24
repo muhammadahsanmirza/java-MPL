@@ -1,0 +1,2 @@
+Java is a type of coffe.
+Java is a High-level programming language.

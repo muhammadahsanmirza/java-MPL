@@ -1,0 +1,3 @@
+annonymousinnerclass.AnnonymousInnerClass
+annonymousinnerclass.person
+annonymousinnerclass.AnnonymousInnerClass$1

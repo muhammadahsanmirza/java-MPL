@@ -1,0 +1,5 @@
+mulipleinterfaceinheritance.MulipleInterfaceInheritance
+mulipleinterfaceinheritance.printHello
+mulipleinterfaceinheritance.greetings
+mulipleinterfaceinheritance.iShowable
+mulipleinterfaceinheritance.iPrintable

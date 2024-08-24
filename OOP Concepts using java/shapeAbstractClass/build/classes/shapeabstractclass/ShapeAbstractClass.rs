@@ -1,0 +1,7 @@
+shapeabstractclass.Circle1
+shapeabstractclass.rectangle
+shapeabstractclass.Shape
+shapeabstractclass.Rectangle
+shapeabstractclass.ShapeAbstractClass
+shapeabstractclass.shape
+shapeabstractclass.circle
